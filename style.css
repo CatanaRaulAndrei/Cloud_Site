@@ -178,7 +178,7 @@ ul.dropdown-content.select-dropdown li span {
   }
 }
 /* Ecran telefon mobil */
-@media (max-width: 411px) {
+@media (max-width: 412px) {
   .brand-logo i {
     margin: 15px 10px;
     padding: 10px auto;
